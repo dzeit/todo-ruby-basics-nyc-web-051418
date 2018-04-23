@@ -15,7 +15,7 @@ def greeting(name, language)
 end
 
 def return_a_value(phrase)
-  puts phrase
+  phrase
 end
 
 def last_evaluated_value
