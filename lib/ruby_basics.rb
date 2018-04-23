@@ -18,10 +18,10 @@ def return_a_value(phrase)
   phrase
 end
 
-def last_evaluated_value
-  
+def last_evaluated_value(return_value)
+  return_value
 end
 
-def pizza_party
-
+def pizza_party(topping = "cheese")
+  topping
 end
